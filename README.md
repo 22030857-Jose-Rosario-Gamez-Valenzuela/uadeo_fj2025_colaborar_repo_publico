@@ -1,1 +1,3 @@
-# uadeo_fj2025_colaborar_repo_publico
+# Colaboracion En Repositorio Publico
+
+[@JoseRosario](https://github.com/22030857-Jose-Rosario-Gamez-Valenzuela)
